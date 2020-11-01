@@ -1,12 +1,12 @@
-# Itunes Search Api Application
-Search for your favourite content on Itunes
+# Mmino Search Application
+Search for your favourite content on the application
 and add it to your favourites list
 
 
 ## How It Works
 Enter a search query on the input field, eg: Drake, then choose the media type
 that you would like to search for, eg: music / music video etc. Then press
-the search icon to submit your search. The results of your search will then
+the search icon to submit your search query. The results of your search will then
 be displayed to you and you can add various result items to a list of favourites
 if you want to.
 
@@ -28,14 +28,8 @@ if you want to.
 * Now type 'npm start' to start the react server, runs the app in the development mode.
 * Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Testing
 
-### Backend
- From the command line interface navigate to the backend directory and  type 'npm test'
- to run the test scripts
 
-### Frontend
-From the command line interface navigate to the frontend directory and  type 'npm test'
-to run the test scripts
+
 
 
